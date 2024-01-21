@@ -23,7 +23,7 @@ Keras Deep Learning Library: CNNs are implemented using the Keras open-source De
 
 ## CNN architecture
 
-![App Screenshot](file:///D:/LULC_DCNN/CNN_architecture_final_figure4.png)
+![CNN_architecture](https://github.com/Kamrrann/Sentinel2_Classification_Using_Deep-Convolutional-Neural-Network/assets/157211397/b9f8c636-f387-4059-8ca2-94d44d012c65)
 
 
 ## Requirements
