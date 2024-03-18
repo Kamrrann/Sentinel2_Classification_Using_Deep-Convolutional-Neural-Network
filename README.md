@@ -55,7 +55,7 @@ I welcome contributions and feedback from the community. Feel free to open issue
 
 
 
-## Suggestd Citation
+## Suggested Citation
 Ali, K.; Johnson, B.A. Land-Use and Land-Cover Classification in Semi-Arid Areas from Medium-Resolution Remote-Sensing Imagery: A Deep Learning Approach. Sensors 2022, 22, 8750. https://doi.org/10.3390/s22228750
 
 
